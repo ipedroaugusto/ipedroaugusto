@@ -1,9 +1,9 @@
   ### Olá, Bem vindo ao meu perfil do Github !!
   
 
-- 📚 Acadêmico de Análise e Desenvolvimento de Sistemas
+- 📚 - Acadêmico de Análise e Desenvolvimento de Sistemas
 
-- 💻 Atualmente Estudando Swift e JavaScript
+- 💻 - Atualmente Estudando Swift e JavaScript
 
  <div>
   <a href="https://github.com/ipedroaugusto/">
