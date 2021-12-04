@@ -3,7 +3,7 @@
 
 - 📚   Acadêmico de Análise e Desenvolvimento de Sistemas
 
-- 💻   Em busca de uma vaga como front-end junior (VueJS)
+- 💻   Em busca de uma vaga como desenvolvedor iOS Junior
 
  <div>
   <a href="https://github.com/ipedroaugusto/">
