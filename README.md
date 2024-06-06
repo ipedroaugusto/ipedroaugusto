@@ -1,9 +1,9 @@
   ### Olá, Bem vindo ao meu perfil do Github !!
   
 
-- 📚   Acadêmico de Análise e Desenvolvimento de Sistemas
+- 📚   Tenho formação em Análise e desenvolvimento de sistemas;
 
-- 💻   Em busca de uma vaga como desenvolvedor iOS Junior
+- 💻   Em busca de uma vaga como desenvolvedor front-end junior.
 
  <div>
   <a href="https://github.com/ipedroaugusto/">
